@@ -6,13 +6,11 @@
 
 - [ ] Visão geral dos desafios de escalabilidade no Ethereum
 - [ ] Explorando soluções de escalabilidade de 2° camada
-- [ ] Papel da Arbitrum no ecossistema de escalabilidade Ethereum
 
-### [10min] Arquitetura Arbitrum
+### [10min] Como a Arbitrum funciona?
 
-- [ ] Componentes do protocolo Arbitrum
-- [ ] Como o Arbitrum alcança a escalabilidade
-- [ ] Execução de contratos inteligentes na Arbitrum
+- [ ] Arquitetura e Escalabilidade
+- [ ] Smartcontracts na Arbitrum
 
 ## 2 Como funcionam os Rollups
 
@@ -20,7 +18,6 @@
 
 - [ ] Explorando o conceito de Rollups
 - [ ] Aprendendo sobre disponibilidade e execução de dados no Ethereum
-- [ ] Papel da Arbitrum Rollups nas soluções de escalabilidade
 
 ### [10min] Smartcontract para Arbitrum Rollups I
 
