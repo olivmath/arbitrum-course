@@ -1,113 +1,108 @@
-# Mastering Arbitrum Development
+# Dominando o Desenvolvimento Arbitrum
 
-## 1 Introduction to Arbitrum
+## 1 Introdução a Arbitrum
 
-### Understanding Layer 2 Scaling Solutions
+### Entendo soluções de 2° camada escaláveis
 
-- [ ] Overview of scalability challenges in Ethereum
-- [ ] Introduction to Layer 2 scaling solutions
-- [ ] Role of Arbitrum in Ethereum's scaling ecosystem
+- [ ] Visão geral dos desafios de escalabilidade no Ethereum
+- [ ] Introdução às soluções de 2° camada escaláveis
+- [ ] Papel da Arbitrum no ecossistema de escalabilidade Ethereum
 
-### Arbitrum Architecture
+### Arquitetura Arbitrum
 
-- [ ] Components of the Arbitrum protocol
-- [ ] How Arbitrum achieves scalability
-- [ ] Smart contract execution on Arbitrum
+- [ ] Componentes do protocolo Arbitrum
+- [ ] Como o Arbitrum alcança a escalabilidade
+- [ ] Execução de contratos inteligentes na Arbitrum
 
-## 2 Rollups and How They Work
+## 2 Como funcionam os Rollups
 
-### Basics of Rollup Technology
+### Introdução a tecnologia Rollup
 
-- [ ] Exploring the concept of Rollups
-- [ ] Understanding data availability and execution on Ethereum
-- [ ] Role of Arbitrum Rollups in scaling solutions
+- [ ] Explorando o conceito de Rollups
+- [ ] Aprendendo sobre disponibilidade e execução de dados no Ethereum
+- [ ] Papel da Arbitrum Rollups nas soluções de escalabilidade
 
-### Coding Smart Contracts for Arbitrum Rollups
+### Codando smartcontract para Arbitrum Rollups
 
-- [ ] Setting up development environment
-- [ ] Writing and deploying smart contracts on Arbitrum Rollups
-- [ ] Interacting with Rollup smart contracts
+- [ ] Configurando o ambiente de desenvolvimento
+- [ ] Escrevendo e deployando smartcontract na Arbitrum Rollups
+- [ ] Interagindo com smartcontract Rollup
 
 ## 3 Arbitrum Orbit Chains
 
-### Introduction to Orbit Chains
+### Introdução a Orbit Chains
 
-- [ ] What are Orbit Chains?
-- [ ] Key features and benefits
-- [ ] Use cases for Orbit Chains
+- [ ] O que são Orbit Chains?
+- [ ] Principais características e vantagens
+- [ ] Casos uso
 
-### Configuring and Launching Your Own Orbit Chain
+### Lançando a sua própria Orbit Chain
 
-- [ ] Step-by-step guide to launching an Orbit Chain
+- [ ] Passo-a-passo para lançar uma Orbit Chain
 - [ ] Customizing privacy, permissions, and fee tokens
-- [ ] Governing your Orbit Chain
+- [ ] Customizando a privacidade, as permissões e taxas
+- [ ] Governando sua Orbit Chain
 
-## 4 AnyTrust - High Security and Low Costs
+## 4 AnyTrust - Alta segurança e baixos custos
 
-### AnyTrust in Arbitrum
+### AnyTrust na Arbitrum
 
-- [ ] Overview of AnyTrust technology
-- [ ] Achieving high security with low costs
+- [ ] Visão geral da tecnologia AnyTrust
+- [ ] Alcançar segurança elevada com baixos custos
 - [ ] Settling securely on Ethereum with AnyTrust
+- [ ] Liquidação segura no Ethereum com AnyTrust
 
-### Building Applications with AnyTrust
+### AnyTrust na prática
 
-- [ ] Use cases for AnyTrust-powered applications
+- [ ] Casos de uso
 - [ ] Coding practices for building on AnyTrust
 - [ ] Best practices for optimizing costs
 
-## 5 Stylus and Advanced Smart Contract Development
+## 5 Smartcontracts com Stylus [Avançado]
 
-### Stylus SDK - A Second Virtual Machine
+### Stylus SDK - Uma segunda máquina virtual
 
-- [ ] Introduction to Stylus and its benefits
-- [ ] Hands-on with the Stylus Rust SDK
-- [ ] Deploying contracts onchain with Stylus
+- [ ] Introdução ao Stylus e suas vantagens
+- [ ] Codando Stylus com Rust SDK
+- [ ] Deploy de contracts com Stylus
 
-### Advanced Smart Contract Techniques
+### Técnicas avançadas em smartcontratos
 
-- [ ] Exploring advanced features in smart contract development
-- [ ] Hands-on exercises with Stylus and Solidity
-- [ ] Achieving interoperability with multiple languages
+- [ ] Explorar recursos avançados no desenvolvimento de smartcontratos
+- [ ] Stylus e Solidity na prática
+- [ ] Interoperabilidade com várias linguagens
 
-## 6 BOLD Fraud Proofs and Permissionless Validation
+## 6 Provas de fraude BOLD e validação sem autorização
 
-### BOLD Protocol
+### Protocol BOLD
 
-- [ ] Understanding Bounded Liquidity Delay (BOLD)
-- [ ] Potential for permissionless validation
-- [ ] Implications for trust and validation
+- [ ] Aprendendo sobre Bounded Liquidity Delay (BOLD)
+- [ ] Potencial de validação sem autorização
+- [ ] Implicações para a confiança e a validação
 
-### Hands-on Validation with BOLD
+### Validações com BOLD na prática
 
-- [ ] Simulating permissionless validation with BOLD
-- [ ] Integrating BOLD into development workflows
+- [ ] Simulando de validações sem autorização com BOLD
+- [ ] Integrando BOLD no fluxo de desenvolvimento
 - [ ] Addressing security concerns and best practices
+- [ ] Preocupações de segurança e melhores práticas
 
-## 7 Final Project - Real-World DApp Development
+## 7 Projeto Final
 
-### Project Planning and Ideation
+### Idealizando e planejando projetos
 
-- [ ] Selecting a real-world use case
-- [ ] Planning and designing your DApp on Arbitrum
+- [ ] Escolhendo um caso uso do mundo real
+- [ ] Desenhando seu DApp para a Arbitrum
+- [ ] Planejando o desenvolvimento do DApp
 
-### Hands-on DApp Development
+### Mão na massa
 
-- [ ] Guided development of the chosen DApp
-- [ ] Troubleshooting and debugging
-- [ ] Iterative development for optimization
+- [ ] Desenvolvendo Dapp 1
+- [ ] Desenvolvendo Dapp 2
+- [ ] Desenvolvendo Dapp 3
 
-### Project Showcase and Review
+### Acompanhando o Ecossistema Arbitrum
 
-- [ ] Presentation of final projects
-- [ ] Peer review and feedback
-- [ ] Reflection on lessons learned and next steps
-- [ ] Conclusion: Beyond the Course
-
-### Keeping Up with Arbitrum Ecosystem
-
-- [ ] Staying informed about updates and advancements
-- [ ] Contributing to the Arbitrum community
-- [ ] Exploring opportunities in the growing Arbitrum ecosystem
-
-This course aims to provide a comprehensive understanding of developing on the Arbitrum blockchain, with a strong emphasis on practical, hands-on experience.
+- [ ] Mantenha-se atualizado
+- [ ] Engaje na comunidade
+- [ ] Explore oportunidades no ecosistema
