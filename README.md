@@ -2,26 +2,26 @@
 
 ## 1 Introdução ao protocolo Arbitrum
 
-### [5min] Entendo soluções de escalabilidade de 2° camada
+### [5min] O que é Arbitrum?
 
-- [ ] Visão geral dos desafios de escalabilidade no Ethereum
-- [ ] Explorando soluções de escalabilidade de 2° camada
+- [ ] Desafios de escalabilidade no Ethereum
+- [ ] Soluções de Layer 2
 
 ### [10min] Como a Arbitrum funciona?
 
 - [ ] Arquitetura e Escalabilidade
 - [ ] Smartcontracts na Arbitrum
 
-## 2 Como funcionam os Rollups
+## 2 E os Rollups?
 
-### [5min] Introdução a tecnologia Rollup
+### [5min] Introdução a tecnologia
 
-- [ ] Explorando o conceito de Rollups
 - [ ] Aprendendo sobre disponibilidade e execução de dados no Ethereum
+- [ ] Explorando o conceito Rollups
 
 ### [10min] Smartcontract para Arbitrum Rollups I
 
-- [ ] Configurando o ambiente de desenvolvimento
+- [ ] Preparando o ambiente de desenvolvimento
 
 ### [10min] Smartcontract para Arbitrum Rollups II
 
@@ -29,7 +29,7 @@
 
 ### [10min] Smartcontract para Arbitrum Rollups III
 
-- [ ] Interagindo com smartcontract
+- [ ] Integrando com o smartcontract
 
 ## 3 Arbitrum Orbit Chains
 
