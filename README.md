@@ -1,14 +1,14 @@
 # Dominando o Desenvolvimento Arbitrum
 
-## 1 Introdução a Arbitrum
+## 1 Introdução ao protocolo Arbitrum
 
-### Entendo soluções de 2° camada escaláveis
+### [5min] Entendo soluções de escalabilidade de 2° camada
 
 - [ ] Visão geral dos desafios de escalabilidade no Ethereum
-- [ ] Introdução às soluções de 2° camada escaláveis
+- [ ] Explorando soluções de escalabilidade de 2° camada
 - [ ] Papel da Arbitrum no ecossistema de escalabilidade Ethereum
 
-### Arquitetura Arbitrum
+### [10min] Arquitetura Arbitrum
 
 - [ ] Componentes do protocolo Arbitrum
 - [ ] Como o Arbitrum alcança a escalabilidade
@@ -16,57 +16,69 @@
 
 ## 2 Como funcionam os Rollups
 
-### Introdução a tecnologia Rollup
+### [5min] Introdução a tecnologia Rollup
 
 - [ ] Explorando o conceito de Rollups
 - [ ] Aprendendo sobre disponibilidade e execução de dados no Ethereum
 - [ ] Papel da Arbitrum Rollups nas soluções de escalabilidade
 
-### Codando smartcontract para Arbitrum Rollups
+### [10min] Smartcontract para Arbitrum Rollups I
 
 - [ ] Configurando o ambiente de desenvolvimento
+
+### [10min] Smartcontract para Arbitrum Rollups II
+
 - [ ] Escrevendo e deployando smartcontract na Arbitrum Rollups
-- [ ] Interagindo com smartcontract Rollup
+
+### [10min] Smartcontract para Arbitrum Rollups III
+
+- [ ] Interagindo com smartcontract
 
 ## 3 Arbitrum Orbit Chains
 
-### Introdução a Orbit Chains
+### [5min] Introdução a Orbit Chains
 
 - [ ] O que são Orbit Chains?
 - [ ] Principais características e vantagens
 - [ ] Casos uso
 
-### Lançando a sua própria Orbit Chain
+### [10min] Lançando a sua própria Orbit Chain I
 
 - [ ] Passo-a-passo para lançar uma Orbit Chain
-- [ ] Customizing privacy, permissions, and fee tokens
+
+### [10min] Lançando a sua própria Orbit Chain II
+
 - [ ] Customizando a privacidade, as permissões e taxas
+
+### [10min] Lançando a sua própria Orbit Chain III
+
 - [ ] Governando sua Orbit Chain
 
 ## 4 AnyTrust - Alta segurança e baixos custos
 
-### AnyTrust na Arbitrum
+### [10min] AnyTrust na Arbitrum
 
 - [ ] Visão geral da tecnologia AnyTrust
-- [ ] Alcançar segurança elevada com baixos custos
-- [ ] Settling securely on Ethereum with AnyTrust
-- [ ] Liquidação segura no Ethereum com AnyTrust
-
-### AnyTrust na prática
-
+- [ ] Execução segura com baixos custos
 - [ ] Casos de uso
-- [ ] Coding practices for building on AnyTrust
-- [ ] Best practices for optimizing costs
+
+### [10min] AnyTrust na prática
+
+- [ ] Boas práticas para desenvolvimento com AnyTrust
+- [ ] Boas práticas para otimização de custos
 
 ## 5 Smartcontracts com Stylus [Avançado]
 
-### Stylus SDK - Uma segunda máquina virtual
+### [5min] Stylus - Teoria
 
 - [ ] Introdução ao Stylus e suas vantagens
+
+### [15min] Stylus - Prática
+
 - [ ] Codando Stylus com Rust SDK
 - [ ] Deploy de contracts com Stylus
 
-### Técnicas avançadas em smartcontratos
+### [15min] Técnicas avançadas em smartcontratos
 
 - [ ] Explorar recursos avançados no desenvolvimento de smartcontratos
 - [ ] Stylus e Solidity na prática
@@ -74,34 +86,39 @@
 
 ## 6 Provas de fraude BOLD e validação sem autorização
 
-### Protocol BOLD
+### [10min] Protocol BOLD
 
 - [ ] Aprendendo sobre Bounded Liquidity Delay (BOLD)
 - [ ] Potencial de validação sem autorização
 - [ ] Implicações para a confiança e a validação
-
-### Validações com BOLD na prática
-
-- [ ] Simulando de validações sem autorização com BOLD
-- [ ] Integrando BOLD no fluxo de desenvolvimento
-- [ ] Addressing security concerns and best practices
 - [ ] Preocupações de segurança e melhores práticas
+
+### [10min] Validações com BOLD na prática
+
+- [ ] Simulando validações sem autorização com BOLD
+- [ ] Integrando BOLD no fluxo de desenvolvimento
 
 ## 7 Projeto Final
 
-### Idealizando e planejando projetos
+### [10min] Idealizando e planejando projetos
 
 - [ ] Escolhendo um caso uso do mundo real
 - [ ] Desenhando seu DApp para a Arbitrum
 - [ ] Planejando o desenvolvimento do DApp
 
-### Mão na massa
+### [30min] Dapp 1
 
 - [ ] Desenvolvendo Dapp 1
+
+### [30min] Dapp 2
+
 - [ ] Desenvolvendo Dapp 2
+
+### [30min] Dapp 3
+
 - [ ] Desenvolvendo Dapp 3
 
-### Acompanhando o Ecossistema Arbitrum
+### [10min] Acompanhando o Ecossistema Arbitrum
 
 - [ ] Mantenha-se atualizado
 - [ ] Engaje na comunidade
