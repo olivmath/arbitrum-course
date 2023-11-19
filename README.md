@@ -3,12 +3,10 @@
 ## 1 Introdução ao protocolo Arbitrum
 
 ### [5min] Apresentação Prof e Curso
-
 - [ ] Quem é o professor
 - [ ] Como vai ser o curso
 
 ### [5min] O que é Arbitrum?
-
 - [x] Desafios de escalabilidade no Ethereum
 - [x] Soluções de Layer 2
   - [x] canais de estado
@@ -16,12 +14,10 @@
   - [x] zkRollups
 
 ### [5min] Apresentação do projeto
-
 - [x] Comparando zkRollups e Optimistic Rollups
 - [x] Com funciona o clico de desenvolvimento?
 
 ### [15min] Mão na massa I
-
 - [x] Preparando o ambiente de desenvolvimento
 - [x] Escrever `ERC20.sol`
 - [x] Criar conta na Alchemy
@@ -33,83 +29,46 @@
 ## 2 Arbitrum Orbit Chains
 
 ### [5min] Introdução a Orbit Chains
-
 - [ ] O que são Orbit Chains?
 - [ ] Principais características e vantagens
 - [ ] Casos uso
 
 ### [15min] Lançando a sua própria Orbit Chain
-
 - [ ] Passo-a-passo para lançar uma Orbit Chain
 - [ ] Customizando a privacidade, as permissões e taxas
 - [ ] Governando sua Orbit Chain
 
-## 3 AnyTrust - Alta segurança e baixos custos
+## 3 Alta segurança e baixos custos
 
 ### [10min] Introdução ao AnyTrust
-
 - [ ] Visão geral da tecnologia AnyTrust
 - [ ] Execução segura com baixos custos
 
-### [10min] Desenvolvimento com AnyTrust
-
-- [ ] Casos de uso
-- [ ] Boas práticas para desenvolvimento com AnyTrust
-- [ ] Boas práticas para otimização de custos
-
-## 4 Smartcontracts com Stylus [Avançado]
-
-### [5min] Stylus - Teoria
-
-- [ ] Introdução ao Stylus e suas vantagens
-
-### [15min] Stylus - Prática
-
-- [ ] Codando Stylus com Rust SDK
-- [ ] Deploy de contracts com Stylus
-
-### [15min] Técnicas avançadas em smartcontratos
-
-- [ ] Explorar recursos avançados no desenvolvimento de smartcontratos
-- [ ] Stylus e Solidity na prática
-- [ ] Interoperabilidade com várias linguagens
-
-## 5 Provas de fraude BOLD e validação sem autorização
-
-### [10min] Protocol BOLD
-
+### [10min] Aprendendo sobre o protocol BOLD
 - [ ] Aprendendo sobre Bounded Liquidity Delay (BOLD)
 - [ ] Potencial de validação sem autorização
 - [ ] Implicações para a confiança e a validação
 - [ ] Preocupações de segurança e melhores práticas
 
-### [10min] Validações com BOLD na prática
+## 4 Smartcontracts com Stylus [Avançado]
 
-- [ ] Simulando validações sem autorização com BOLD
-- [ ] Integrando BOLD no fluxo de desenvolvimento
+### [5min] Stylus - Teoria
+- [ ] Introdução ao Stylus e suas vantagens
 
-## 6 Projeto Final
-
-### [10min] Idealizando e planejando projetos
-
-- [ ] Escolhendo um caso uso do mundo real
-- [ ] Desenhando seu DApp para a Arbitrum
-- [ ] Planejando o desenvolvimento do DApp
+### [15min] Stylus - Prática
+- [ ] Codando Stylus com Rust SDK
+- [ ] Deploy de contracts com Stylus
 
 ### [30min] Dapp 1
-
 - [ ] Desenvolvendo Dapp 1
 
 ### [30min] Dapp 2
-
 - [ ] Desenvolvendo Dapp 2
 
 ### [30min] Dapp 3
-
 - [ ] Desenvolvendo Dapp 3
 
 ### [10min] Acompanhando o Ecossistema Arbitrum
-
 - [ ] Mantenha-se atualizado
 - [ ] Engaje na comunidade
 - [ ] Explore oportunidades no ecosistema
