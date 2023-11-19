@@ -50,7 +50,7 @@
 - [ ] Implicações para a confiança e a validação
 - [ ] Preocupações de segurança e melhores práticas
 
-## 4 Smartcontracts com Stylus [Avançado]
+## 4 Smartcontracts com Stylus e sem stilo [Avançado]
 
 ### [5min] Stylus - Teoria
 - [ ] Introdução ao Stylus e suas vantagens
