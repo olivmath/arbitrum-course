@@ -2,32 +2,35 @@
 
 ## 1 Introdução ao protocolo Arbitrum
 
+### [5min] Apresentação Prof e Curso
+
+- [ ] Quem é o professor
+- [ ] Como vai ser o curso
+
 ### [5min] O que é Arbitrum?
 
-- [ ] Desafios de escalabilidade no Ethereum
-- [ ] Soluções de Layer 2
-  - [ ] canais de estado
-  - [ ] Rollups Otimista
-  - [ ] zkRollups
-
-## 2 Arbitrum Smartcontracts
+- [x] Desafios de escalabilidade no Ethereum
+- [x] Soluções de Layer 2
+  - [x] canais de estado
+  - [x] Rollups Otimista
+  - [x] zkRollups
 
 ### [5min] Apresentação do projeto
 
-- [ ] Comparando zkRollups e Optimistic Rollups
-- [ ] Com funciona o clico de desenvolvimento?
+- [x] Comparando zkRollups e Optimistic Rollups
+- [x] Com funciona o clico de desenvolvimento?
 
 ### [15min] Mão na massa I
 
-- [ ] Preparando o ambiente de desenvolvimento
-  - [ ] Criar conta na Alchemy
-  - [ ] Adicionar RPC na Metamask
-  - [ ] Pegar Faucet
-  - [ ] Transferir Token L1 para L2
-- [ ] Escrever `ERC20.sol`
-- [ ] Ver saldo na Metamask
+- [x] Preparando o ambiente de desenvolvimento
+- [x] Escrever `ERC20.sol`
+- [x] Criar conta na Alchemy
+- [x] Adicionar RPC na Metamask
+- [x] Pegar Faucet
+- [x] Transferir Token L1 para L2
+- [x] Ver saldo na Metamask
 
-## 3 Arbitrum Orbit Chains
+## 2 Arbitrum Orbit Chains
 
 ### [5min] Introdução a Orbit Chains
 
@@ -41,20 +44,20 @@
 - [ ] Customizando a privacidade, as permissões e taxas
 - [ ] Governando sua Orbit Chain
 
-## 4 AnyTrust - Alta segurança e baixos custos
+## 3 AnyTrust - Alta segurança e baixos custos
 
-### [10min] AnyTrust na Arbitrum
+### [10min] Introdução ao AnyTrust
 
 - [ ] Visão geral da tecnologia AnyTrust
 - [ ] Execução segura com baixos custos
+
+### [10min] Desenvolvimento com AnyTrust
+
 - [ ] Casos de uso
-
-### [10min] AnyTrust na prática
-
 - [ ] Boas práticas para desenvolvimento com AnyTrust
 - [ ] Boas práticas para otimização de custos
 
-## 5 Smartcontracts com Stylus [Avançado]
+## 4 Smartcontracts com Stylus [Avançado]
 
 ### [5min] Stylus - Teoria
 
@@ -71,7 +74,7 @@
 - [ ] Stylus e Solidity na prática
 - [ ] Interoperabilidade com várias linguagens
 
-## 6 Provas de fraude BOLD e validação sem autorização
+## 5 Provas de fraude BOLD e validação sem autorização
 
 ### [10min] Protocol BOLD
 
@@ -85,7 +88,7 @@
 - [ ] Simulando validações sem autorização com BOLD
 - [ ] Integrando BOLD no fluxo de desenvolvimento
 
-## 7 Projeto Final
+## 6 Projeto Final
 
 ### [10min] Idealizando e planejando projetos
 
