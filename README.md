@@ -6,29 +6,20 @@
 
 - [ ] Desafios de escalabilidade no Ethereum
 - [ ] Soluções de Layer 2
+  - [ ] canais de estado
+  - [ ] Rollups Otimista
+  - [ ] zkRollups
 
-### [10min] Como a Arbitrum funciona?
+## 2 Arbitrum Smartcontracts
 
-- [ ] Arquitetura e Escalabilidade
-- [ ] Smartcontracts na Arbitrum
+### [5min] Apresentação do projeto
 
-## 2 E os Rollups?
+- [ ] Com funciona o clico de desenvolvimento?
 
-### [5min] Introdução a tecnologia
-
-- [ ] Aprendendo sobre disponibilidade e execução de dados no Ethereum
-- [ ] Explorando o conceito Rollups
-
-### [10min] Smartcontract para Arbitrum Rollups I
+### [15min] Mão na massa I
 
 - [ ] Preparando o ambiente de desenvolvimento
-
-### [10min] Smartcontract para Arbitrum Rollups II
-
 - [ ] Escrevendo e deployando smartcontract na Arbitrum Rollups
-
-### [10min] Smartcontract para Arbitrum Rollups III
-
 - [ ] Integrando com o smartcontract
 
 ## 3 Arbitrum Orbit Chains
