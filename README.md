@@ -14,13 +14,18 @@
 
 ### [5min] Apresentação do projeto
 
+- [ ] Comparando zkRollups e Optimistic Rollups
 - [ ] Com funciona o clico de desenvolvimento?
 
 ### [15min] Mão na massa I
 
 - [ ] Preparando o ambiente de desenvolvimento
-- [ ] Escrevendo e deployando smartcontract na Arbitrum Rollups
-- [ ] Integrando com o smartcontract
+  - [ ] Criar conta na Alchemy
+  - [ ] Adicionar RPC na Metamask
+  - [ ] Pegar Faucet
+  - [ ] Transferir Token L1 para L2
+- [ ] Escrever `ERC20.sol`
+- [ ] Ver saldo na Metamask
 
 ## 3 Arbitrum Orbit Chains
 
@@ -30,16 +35,10 @@
 - [ ] Principais características e vantagens
 - [ ] Casos uso
 
-### [10min] Lançando a sua própria Orbit Chain I
+### [15min] Lançando a sua própria Orbit Chain
 
 - [ ] Passo-a-passo para lançar uma Orbit Chain
-
-### [10min] Lançando a sua própria Orbit Chain II
-
 - [ ] Customizando a privacidade, as permissões e taxas
-
-### [10min] Lançando a sua própria Orbit Chain III
-
 - [ ] Governando sua Orbit Chain
 
 ## 4 AnyTrust - Alta segurança e baixos custos
