@@ -2,6 +2,7 @@
 
 ## 1 Introdução ao protocolo Arbitrum
 
+
 - Apresentação
 - O que é Arbitrum?
 - Comparando zkRollups e Optimistic Rollups
